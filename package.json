@@ -1,0 +1,17 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "webapp hackers news ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank campo",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-simple-pagination": "^1.0.5",
+    "gulp": "^3.9.1",
+    "lodash": "^4.17.4"
+  }
+}

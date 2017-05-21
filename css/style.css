@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    background: #f3f3f3;    
+}
+.content-news{
+    margin-top: 15px;
+}
+.by{
+    color: #f3f3f3;
+    font-size: 10px;
+}
+@media (max-width: 768px){
+    .story{
+        display: none;
+    }
+    .author {
+        display: none;
+    }
+    .dateTime{
+        display: none;
+    }
+    .title{
+        font-size: 20px;
+    }
+}
