@@ -9,6 +9,20 @@ body{
     color: #f3f3f3;
     font-size: 10px;
 }
+.label-search{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-end;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 79px;
+}
+
 @media (max-width: 768px){
     .story{
         display: none;
